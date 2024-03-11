@@ -34,7 +34,7 @@ function getProfile(){
             </div>
         </div>`
 
-         		//"<img src="+user.avatar_url+"/>"+'<br>'+"<b>Name:</b> "+ user.name +'<br/>'+"<b>Bio:</b> "+ user.bio;
+         		
          	}
          }
   	  }
